@@ -3,7 +3,6 @@ MarketMonitor is a dynamic web application for monitoring and analyzing stock ma
 
 A real-time stock market monitoring app built with React, Chart.js and TailwindCss.
 
-![image](https://github.com/user-attachments/assets/80f1609d-c225-40bf-abcf-2f55a4ffb934)
 
 
 ## Features
@@ -21,10 +20,6 @@ A real-time stock market monitoring app built with React, Chart.js and TailwindC
 Deployment Link - https://stock-market-lyart.vercel.app/
 
 ## Getting Started
-Clone the repository: 
-```bash
-git clone https://github.com/drakeRAGE/Stock-Market.git
-```
 
 Install dependencies: 
 ```bash
@@ -70,4 +65,4 @@ Contributions are welcome! If you'd like to contribute to the development of Mar
 A special thanks to all the open-source contributors and communities that make these tools and libraries possible. Your efforts greatly contribute to the development of software and empower developers around the world.
 
 ## Contact
-For any questions or inquiries, please contact crashbrown2004@gmail.com.
+For any questions or inquiries, please contact namannamdev1@gmail.com
